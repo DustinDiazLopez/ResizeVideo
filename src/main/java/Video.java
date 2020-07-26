@@ -47,12 +47,12 @@ public class Video {
         return new int[]{stream.width, stream.height};
     }
 
-    public static String getExtension(String filename) {
-        return FilenameUtils.getExtension(filename);
+    public static double duration(String path) throws IOException {
+        return new FFprobe(ffProbeLocation).probe(path).streams.get(0).duration;
     }
 
-    public static void main(String[] args) throws IOException {
-        System.out.println(ofEachResolution("F:\\Courses\\Algoexpert\\Video Buffer\\test.mp4"));
+    public static String getExtension(String filename) {
+        return FilenameUtils.getExtension(filename);
     }
 
     public static List<String> ofEachResolution(String input) throws IOException {

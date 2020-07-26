@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f34a0-d582-44b3-ac31-de63895dea24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Scalr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/0007.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Video.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,20 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1VXirT6PltxDI1GNyV5E00iAbyq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -48,10 +45,28 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dudia\Desktop\Projects\ResizeVideo\src\main\java" />
+      <recent name="C:\Users\dudia\Desktop\Projects\ResizeVideo\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Image">
+    <configuration name="Generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generate" />
+      <module name="ResizeVideo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Get" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Get" />
+      <module name="ResizeVideo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Image" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Image" />
       <module name="ResizeVideo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,23 +88,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Image" />
+        <item itemvalue="Application.Generate" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Video" />
         <item itemvalue="Application.Get" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -108,53 +113,25 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1844" y="312" key="FileChooserDialogImpl" timestamp="1577407685973">
+    <state x="1041" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595741058036">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state x="1844" y="312" key="FileChooserDialogImpl/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1577407685973" />
-    <state width="2709" height="226" key="GridCell.Tab.0.bottom" timestamp="1580041621241">
+    <state x="1041" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595741058036" />
+    <state width="2697" height="130" key="GridCell.Tab.0.bottom" timestamp="1595742494087">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2709" height="226" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1580041621241" />
-    <state width="2709" height="226" key="GridCell.Tab.0.center" timestamp="1580041621241">
+    <state width="2697" height="130" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494087" />
+    <state width="2697" height="130" key="GridCell.Tab.0.center" timestamp="1595742494087">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2709" height="226" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1580041621241" />
-    <state width="2709" height="226" key="GridCell.Tab.0.left" timestamp="1580041621240">
+    <state width="2697" height="130" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494087" />
+    <state width="2697" height="130" key="GridCell.Tab.0.left" timestamp="1595742494086">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2709" height="226" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1580041621240" />
-    <state width="2709" height="226" key="GridCell.Tab.0.right" timestamp="1580041621241">
+    <state width="2697" height="130" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494086" />
+    <state width="2697" height="130" key="GridCell.Tab.0.right" timestamp="1595742494087">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2709" height="226" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1580041621241" />
-    <state width="1486" height="332" key="GridCell.Tab.1.bottom" timestamp="1579581874077">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state width="1486" height="332" key="GridCell.Tab.1.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1579581874077" />
-    <state width="1486" height="332" key="GridCell.Tab.1.center" timestamp="1579581874077">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state width="1486" height="332" key="GridCell.Tab.1.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1579581874077" />
-    <state width="1486" height="332" key="GridCell.Tab.1.left" timestamp="1579581874077">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state width="1486" height="332" key="GridCell.Tab.1.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1579581874077" />
-    <state width="1486" height="332" key="GridCell.Tab.1.right" timestamp="1579581874077">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state width="1486" height="332" key="GridCell.Tab.1.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1579581874077" />
-    <state x="1340" y="227" width="1038" height="780" key="SettingsEditor" timestamp="1577406159282">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state x="1340" y="227" width="1038" height="780" key="SettingsEditor/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1577406159282" />
-    <state x="927" y="274" key="run.anything.popup" timestamp="1579577832717">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state x="927" y="274" key="run.anything.popup/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1579577832717" />
-    <state x="1726" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1579580289785">
-      <screen x="0" y="0" width="2752" height="1112" />
-    </state>
-    <state x="1726" y="247" width="672" height="678" key="search.everywhere.popup/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1579580289785" />
+    <state width="2697" height="130" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494087" />
   </component>
 </project>

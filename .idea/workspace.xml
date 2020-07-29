@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="073f34a0-d582-44b3-ac31-de63895dea24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Scalr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/0007.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Generate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Video.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Video.class" afterDir="false" />
     </list>
@@ -50,7 +47,7 @@
       <recent name="C:\Users\dudia\Desktop\Projects\ResizeVideo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Image">
+  <component name="RunManager" selected="Application.Generate">
     <configuration name="Generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generate" />
       <module name="ResizeVideo" />
@@ -88,8 +85,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Image" />
         <item itemvalue="Application.Generate" />
+        <item itemvalue="Application.Image" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Video" />
         <item itemvalue="Application.Get" />
@@ -113,25 +110,53 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1119" y="339" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1595999451058">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1119" y="339" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595999451058" />
     <state x="1041" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595741058036">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="1041" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595741058036" />
-    <state width="2697" height="130" key="GridCell.Tab.0.bottom" timestamp="1595742494087">
+    <state x="1041" y="242" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1595789501409">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2697" height="130" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494087" />
-    <state width="2697" height="130" key="GridCell.Tab.0.center" timestamp="1595742494087">
+    <state x="1041" y="242" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595789501409" />
+    <state width="868" height="664" key="GridCell.Tab.0.bottom" timestamp="1595908605371">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2697" height="130" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494087" />
-    <state width="2697" height="130" key="GridCell.Tab.0.left" timestamp="1595742494086">
+    <state width="1481" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452277" />
+    <state width="868" height="664" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595908605371" />
+    <state width="868" height="664" key="GridCell.Tab.0.center" timestamp="1595908605371">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2697" height="130" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494086" />
-    <state width="2697" height="130" key="GridCell.Tab.0.right" timestamp="1595742494087">
+    <state width="1481" height="130" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452276" />
+    <state width="868" height="664" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595908605371" />
+    <state width="868" height="664" key="GridCell.Tab.0.left" timestamp="1595908605371">
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
-    <state width="2697" height="130" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595742494087" />
+    <state width="1481" height="130" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452276" />
+    <state width="868" height="664" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595908605371" />
+    <state width="868" height="664" key="GridCell.Tab.0.right" timestamp="1595908605371">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="1481" height="130" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452277" />
+    <state width="868" height="664" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595908605371" />
+    <state width="2697" height="360" key="GridCell.Tab.1.bottom" timestamp="1595791402276">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2697" height="360" key="GridCell.Tab.1.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595791402276" />
+    <state width="2697" height="360" key="GridCell.Tab.1.center" timestamp="1595791402276">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2697" height="360" key="GridCell.Tab.1.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595791402276" />
+    <state width="2697" height="360" key="GridCell.Tab.1.left" timestamp="1595791402276">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2697" height="360" key="GridCell.Tab.1.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595791402276" />
+    <state width="2697" height="360" key="GridCell.Tab.1.right" timestamp="1595791402276">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="2697" height="360" key="GridCell.Tab.1.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1595791402276" />
   </component>
 </project>

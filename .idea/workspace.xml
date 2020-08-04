@@ -47,7 +47,7 @@
       <recent name="C:\Users\dudia\Desktop\Projects\ResizeVideo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Generate">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Generate" />
       <module name="ResizeVideo" />
@@ -85,9 +85,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Generate" />
         <item itemvalue="Application.Image" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Video" />
         <item itemvalue="Application.Get" />
       </list>

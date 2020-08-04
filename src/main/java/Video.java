@@ -30,8 +30,8 @@ public class Video {
                 .setAudioChannels(1)                      // Mono audio
                 //  .setAudioChannels(2)
                 .setAudioCodec("aac")                     // using the aac codec
-                .setAudioSampleRate(48_000)               // at 48KHz
-                .setAudioBitRate(32768)                   // at 32 kbit/s
+//                .setAudioSampleRate(48_000)               // at 48KHz
+//                .setAudioBitRate(32768)                   // at 32 kbit/s
                 .setVideoCodec("libx264")                 // Video using x264
                 .setVideoFrameRate(24, 1)     // at 24 frames per second
                 .setVideoResolution(width, height)        // resolution

@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.UUID;
 
 public class Main {
-    private static String NAME = "COMPRESS: ";
+    private static final String NAME = "COMPRESS: ";
 
     public static void main(String[] args) throws IOException {
         File input = new File(args[0]);

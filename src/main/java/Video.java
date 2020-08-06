@@ -13,8 +13,11 @@ import java.util.List;
 import java.util.UUID;
 
 public class Video {
-    public static String ffMPEGLocation = "C:/ffmpeg-20200216-8578433-win64-static/bin/ffmpeg";
-    public static String ffProbeLocation = "C:/ffmpeg-20200216-8578433-win64-static/bin/ffprobe";
+//    public static String ffMPEGLocation = "C:/ffmpeg-20200216-8578433-win64-static/bin/ffmpeg";
+//    public static String ffProbeLocation = "C:/ffmpeg-20200216-8578433-win64-static/bin/ffprobe";
+
+    public static String ffMPEGLocation = "D:/dev/FFmpeg/ffmpeg-20191226-b0d0d7e-win64-static/bin/ffmpeg";
+    public static String ffProbeLocation = "D:/dev/FFmpeg/ffmpeg-20191226-b0d0d7e-win64-static/bin/ffprobe";
 
     public static void compress(String input, String output, int width, int height) throws IOException {
         FFmpeg ffmpeg = new FFmpeg(ffMPEGLocation);

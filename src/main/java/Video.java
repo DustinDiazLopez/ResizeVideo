@@ -19,6 +19,10 @@ public class Video {
     public static String ffMPEGLocation = "D:/dev/FFmpeg/ffmpeg-20191226-b0d0d7e-win64-static/bin/ffmpeg";
     public static String ffProbeLocation = "D:/dev/FFmpeg/ffmpeg-20191226-b0d0d7e-win64-static/bin/ffprobe";
 
+    public static void main(String[] args) throws IOException {
+        System.out.println(duration(args[0]));
+    }
+
     public static void compress(String input, String output, int width, int height) throws IOException {
         FFmpeg ffmpeg = new FFmpeg(ffMPEGLocation);
         FFprobe ffprobe = new FFprobe(ffProbeLocation);

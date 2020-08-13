@@ -10,10 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="073f34a0-d582-44b3-ac31-de63895dea24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/deletefiles/QuestionJsonReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Generate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Generate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <recent name="C:\Users\dudia\Desktop\Projects\ResizeVideo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Video">
+  <component name="RunManager" selected="Application.Generate">
     <configuration name="FileManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deletefiles.FileManager" />
       <module name="ResizeVideo" />
@@ -106,9 +104,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generate" />
         <item itemvalue="Application.Video" />
         <item itemvalue="Application.QuestionJsonReader" />
-        <item itemvalue="Application.Generate" />
         <item itemvalue="JAR Application.ResizeVideo.jar" />
         <item itemvalue="Application.FileManager" />
       </list>
@@ -157,33 +155,33 @@
       <screen x="0" y="0" width="2752" height="1112" />
     </state>
     <state x="1354" y="286" key="FileChooserDialogImpl/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1596710345881" />
-    <state width="443" height="577" key="GridCell.Tab.0.bottom" timestamp="1596898980036">
-      <screen x="0" y="0" width="2752" height="1112" />
+    <state width="423" height="952" key="GridCell.Tab.0.bottom" timestamp="1596971057628">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1481" height="130" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452277" />
     <state width="1478" height="209" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596661927877" />
-    <state width="826" height="952" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596896001473" />
+    <state width="423" height="952" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596971057628" />
     <state width="443" height="577" key="GridCell.Tab.0.bottom/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1596898980036" />
-    <state width="443" height="577" key="GridCell.Tab.0.center" timestamp="1596898980036">
-      <screen x="0" y="0" width="2752" height="1112" />
+    <state width="423" height="952" key="GridCell.Tab.0.center" timestamp="1596971057628">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1481" height="130" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452276" />
     <state width="1478" height="209" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596661927875" />
-    <state width="826" height="952" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596896001473" />
+    <state width="423" height="952" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596971057628" />
     <state width="443" height="577" key="GridCell.Tab.0.center/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1596898980036" />
-    <state width="443" height="577" key="GridCell.Tab.0.left" timestamp="1596898980035">
-      <screen x="0" y="0" width="2752" height="1112" />
+    <state width="423" height="952" key="GridCell.Tab.0.left" timestamp="1596971057628">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1481" height="130" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452276" />
     <state width="1478" height="209" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596661927875" />
-    <state width="826" height="952" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596896001472" />
+    <state width="423" height="952" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596971057628" />
     <state width="443" height="577" key="GridCell.Tab.0.left/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1596898980035" />
-    <state width="443" height="577" key="GridCell.Tab.0.right" timestamp="1596898980036">
-      <screen x="0" y="0" width="2752" height="1112" />
+    <state width="423" height="952" key="GridCell.Tab.0.right" timestamp="1596971057628">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1481" height="130" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1080@0.0.1536.824" timestamp="1595743452277" />
     <state width="1478" height="209" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596661927877" />
-    <state width="826" height="952" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596896001473" />
+    <state width="423" height="952" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1596971057628" />
     <state width="443" height="577" key="GridCell.Tab.0.right/0.0.2752.1112/-1920.0.1920.1080@0.0.2752.1112" timestamp="1596898980036" />
     <state width="2697" height="360" key="GridCell.Tab.1.bottom" timestamp="1595791402276">
       <screen x="0" y="0" width="2752" height="1112" />

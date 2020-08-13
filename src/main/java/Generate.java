@@ -38,7 +38,7 @@ public class Generate {
                 "\"fps=5,scale=" + posterDims.width + ":-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse\" " +
                 "-loop 0 extras\\sample.gif; echo y|" +
                 Video.ffMPEGLocation + " " +
-                "-ss 240 -i \"" + fileName + "\" -vframes 1 -qscale:v 2 -s " + posterDims.width + "x" + posterDims.height +
+                "-ss "+gifStartAndPosterSecond+" -i \"" + fileName + "\" -vframes 1 -qscale:v 2 -s " + posterDims.width + "x" + posterDims.height +
                 " extras\\poster.jpg; echo y|" +
                 Video.ffMPEGLocation + " " +
                 "-i extras\\poster.jpg -vf " +
@@ -67,7 +67,7 @@ public class Generate {
     }
 
     public static void main(String[] args) throws Exception {
-        ArrayList<String> mp4s = getFiles("E:\\bck\\Algoexpert");
+        ArrayList<String> mp4s = getFiles("parentfolder");
         StringBuilder builder = new StringBuilder();
         for (String s : mp4s) builder.append(generateCommandArg(s, null)).append("; ");
         String s = builder.toString() + "echo \"FIN.\"";
